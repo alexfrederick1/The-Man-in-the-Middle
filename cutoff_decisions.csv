@@ -1,0 +1,803 @@
+game_str,play_id,cutoff_man,cutoff_decision
+y1_d001_CGA_QEA,108,second baseman,cut and relay to first baseman
+y1_d001_CGA_QEA,114,second baseman,cut and hold
+y1_d001_CGA_QEA,216,shortstop,cut and hold
+y1_d002_CGA_QEA,92,shortstop,cut and relay to third baseman
+y1_d003_CGA_QEA,92,second baseman,cut and hold
+y1_d004_CGA_QEA,92,second baseman,cut and relay to shortstop
+y1_d004_CGA_QEA,236,second baseman,cut and hold
+y1_d005_JJS_YJD,99,second baseman,cut and relay to pitcher
+y1_d006_JJS_YJD,50,second baseman,cut and hold
+y1_d006_JJS_YJD,163,catcher,let
+y1_d007_JJS_YJD,80,second baseman,cut and hold
+y1_d007_JJS_YJD,84,second baseman,cut and hold
+y1_d007_JJS_YJD,131,pitcher,cut and hold
+y1_d007_JJS_YJD,138,shortstop,cut and hold
+y1_d007_JJS_YJD,179,pitcher,cut and hold
+y1_d008_JJS_YJD,231,second baseman,cut and hold
+y1_d009_GEA_YJD,44,shortstop,cut and hold
+y1_d009_GEA_YJD,79,shortstop,cut and hold
+y1_d010_GEA_YJD,142,catcher,let
+y1_d010_GEA_YJD,271,shortstop,cut and hold
+y1_d011_GEA_YJD,32,second baseman,cut and hold
+y1_d011_GEA_YJD,83,third baseman,cut and hold
+y1_d011_GEA_YJD,138,shortstop,cut and relay to first baseman
+y1_d011_GEA_YJD,171,second baseman,cut and hold
+y1_d013_IXC_QEA,153,second baseman,cut and hold
+y1_d014_IXC_QEA,45,catcher,let
+y1_d014_IXC_QEA,263,second baseman,cut and hold
+y1_d014_IXC_QEA,285,second baseman,cut and relay to shortstop
+y1_d016_OXG_QEA,119,shortstop,cut and throw to catcher
+y1_d016_OXG_QEA,244,catcher,let
+y1_d018_OXG_QEA,143,shortstop,cut and hold
+y1_d019_JFU_YJD,303,shortstop,cut and hold
+y1_d020_JFU_YJD,57,shortstop,cut and hold
+y1_d020_JFU_YJD,191,shortstop,cut and hold
+y1_d020_JFU_YJD,217,second baseman,cut and hold
+y1_d021_JFU_YJD,10,third baseman,cut and relay to second baseman
+y1_d021_JFU_YJD,20,shortstop,cut and throw to catcher
+y1_d021_JFU_YJD,58,shortstop,cut and relay to second baseman
+y1_d021_JFU_YJD,129,third baseman,cut and hold
+y1_d022_AKX_YJD,12,third baseman,cut and hold
+y1_d022_AKX_YJD,199,second baseman,cut and hold
+y1_d022_AKX_YJD,262,second baseman,cut and hold
+y1_d023_AKX_YJD,56,second baseman,cut and hold
+y1_d024_AKX_YJD,118,second baseman,cut and relay to shortstop
+y1_d024_AKX_YJD,173,second baseman,cut and throw to catcher
+y1_d025_JIL_RZQ,70,second baseman,cut and relay to third baseman
+y1_d025_JIL_RZQ,82,shortstop,cut and throw to catcher
+y1_d025_JIL_RZQ,140,second baseman,cut and hold
+y1_d025_JIL_RZQ,187,shortstop,cut and relay to third baseman
+y1_d027_JIL_RZQ,45,shortstop,cut and hold
+y1_d027_JIL_RZQ,116,third baseman,cut and hold
+y1_d027_JIL_RZQ,176,shortstop,cut and hold
+y1_d027_JIL_RZQ,236,second baseman,cut and throw to catcher
+y1_d027_JIL_RZQ,351,second baseman,cut and hold
+y1_d027_JIL_RZQ,352,second baseman,cut and relay to shortstop
+y1_d027_JIL_RZQ,361,second baseman,cut and relay to shortstop
+y1_d029_CMS_YJD,149,second baseman,cut and hold
+y1_d033_AVV_YJD,72,shortstop,cut and hold
+y1_d035_AVV_YJD,16,shortstop,cut and hold
+y1_d037_HMN_RZQ,152,shortstop,cut and hold
+y1_d037_HMN_RZQ,179,second baseman,cut and hold
+y1_d038_HMN_RZQ,185,shortstop,cut and hold
+y1_d038_HMN_RZQ,273,third baseman,cut and hold
+y1_d039_HMN_RZQ,28,shortstop,cut and hold
+y1_d039_HMN_RZQ,29,second baseman,cut and relay to shortstop
+y1_d040_TKJ_YJD,176,second baseman,cut and relay to third baseman
+y1_d040_TKJ_YJD,286,third baseman,cut and hold
+y1_d040_TKJ_YJD,97,second baseman,cut and throw to catcher
+y1_d040_TKJ_YJD,115,shortstop,cut and hold
+y1_d040_TKJ_YJD,128,shortstop,cut and hold
+y1_d041_TKJ_YJD,59,shortstop,cut and hold
+y1_d041_TKJ_YJD,115,shortstop,cut and relay to first baseman
+y1_d041_TKJ_YJD,134,shortstop,cut and relay to third baseman
+y1_d041_TKJ_YJD,205,shortstop,cut and relay to third baseman
+y1_d041_TKJ_YJD,300,first baseman,cut and hold
+y1_d043_WJU_QEA,31,shortstop,cut and throw to catcher
+y1_d043_WJU_QEA,165,shortstop,cut and relay to second baseman
+y1_d043_WJU_QEA,277,second baseman,cut and throw to catcher
+y1_d044_WJU_QEA,47,shortstop,cut and relay to second baseman
+y1_d045_MHY_RZQ,67,second baseman,cut and hold
+y1_d045_MHY_RZQ,277,shortstop,cut and hold
+y1_d045_WJU_QEA,16,first baseman,cut and throw to catcher
+y1_d045_WJU_QEA,33,second baseman,cut and hold
+y1_d046_MHY_RZQ,111,second baseman,cut and hold
+y1_d046_MHY_RZQ,155,second baseman,cut and throw to catcher
+y1_d046_VHS_YJD,205,second baseman,cut and hold
+y1_d046_WJU_QEA,47,second baseman,cut and throw to catcher
+y1_d046_WJU_QEA,127,third baseman,cut and hold
+y1_d046_WJU_QEA,286,second baseman,cut and hold
+y1_d046_WJU_QEA,306,second baseman,cut and hold
+y1_d047_MHY_RZQ,62,second baseman,cut and hold
+y1_d047_MHY_RZQ,111,shortstop,cut and hold
+y1_d047_MHY_RZQ,143,shortstop,cut and hold
+y1_d048_MHY_RZQ,68,third baseman,cut and hold
+y1_d048_MHY_RZQ,109,second baseman,cut and hold
+y1_d048_MHY_RZQ,303,shortstop,cut and hold
+y1_d048_STK_QEA,63,second baseman,cut and relay to first baseman
+y1_d048_STK_QEA,118,second baseman,cut and throw to catcher
+y1_d048_STK_QEA,119,second baseman,cut and relay to shortstop
+y1_d048_UPU_YJD,60,shortstop,cut and hold
+y1_d048_UPU_YJD,74,shortstop,cut and hold
+y1_d048_UPU_YJD,237,shortstop,cut and hold
+y1_d049_JZK_RZQ,75,third baseman,cut and relay to shortstop
+y1_d049_JZK_RZQ,120,second baseman,cut and hold
+y1_d049_JZK_RZQ,135,shortstop,cut and relay to third baseman
+y1_d049_JZK_RZQ,179,second baseman,cut and hold
+y1_d049_JZK_RZQ,184,shortstop,cut and hold
+y1_d049_STK_QEA,209,second baseman,cut and hold
+y1_d049_UPU_YJD,129,second baseman,cut and throw to catcher
+y1_d049_UPU_YJD,224,second baseman,cut and hold
+y1_d050_JZK_RZQ,89,shortstop,cut and throw to catcher
+y1_d050_JZK_RZQ,114,shortstop,cut and throw to catcher
+y1_d050_JZK_RZQ,173,third baseman,cut and hold
+y1_d050_JZK_RZQ,226,shortstop,cut and hold
+y1_d050_JZK_RZQ,251,shortstop,cut and hold
+y1_d050_JZK_RZQ,283,third baseman,cut and hold
+y1_d050_STK_QEA,73,shortstop,cut and hold
+y1_d050_STK_QEA,123,third baseman,cut and hold
+y1_d050_STK_QEA,192,shortstop,cut and hold
+y1_d050_UPU_YJD,45,shortstop,cut and relay to second baseman
+y1_d050_UPU_YJD,46,pitcher,cut and hold
+y1_d050_UPU_YJD,172,shortstop,cut and hold
+y1_d050_UPU_YJD,186,shortstop,cut and relay to second baseman
+y1_d051_JZK_RZQ,111,second baseman,cut and hold
+y1_d051_JZK_RZQ,155,shortstop,cut and hold
+y1_d051_JZK_RZQ,181,shortstop,cut and hold
+y1_d051_JZK_RZQ,207,shortstop,cut and hold
+y1_d051_JZK_RZQ,264,first baseman,cut and hold
+y1_d051_JZK_RZQ,316,second baseman,cut and hold
+y1_d051_UPU_YJD,61,shortstop,cut and hold
+y1_d051_UPU_YJD,188,second baseman,cut and hold
+y1_d052_APZ_QEA,304,second baseman,cut and hold
+y1_d053_APZ_QEA,14,shortstop,cut and hold
+y1_d053_APZ_QEA,134,third baseman,cut and hold
+y1_d053_APZ_QEA,199,shortstop,cut and hold
+y1_d053_APZ_QEA,227,third baseman,cut and hold
+y1_d054_APZ_QEA,163,shortstop,cut and hold
+y1_d054_APZ_QEA,250,shortstop,cut and hold
+y1_d055_APZ_QEA,178,shortstop,cut and hold
+y1_d056_OXG_QEA,42,shortstop,cut and hold
+y1_d056_OXG_QEA,193,shortstop,cut and hold
+y1_d056_WZR_YJD,36,shortstop,cut and hold
+y1_d056_WZR_YJD,207,second baseman,cut and relay to first baseman
+y1_d057_KJH_RZQ,273,shortstop,cut and hold
+y1_d057_KJH_RZQ,23,shortstop,cut and hold
+y1_d057_OXG_QEA,21,shortstop,cut and throw to catcher
+y1_d057_OXG_QEA,96,shortstop,cut and hold
+y1_d057_OXG_QEA,169,second baseman,cut and throw to catcher
+y1_d057_OXG_QEA,273,shortstop,cut and relay to first baseman
+y1_d057_OXG_QEA,299,shortstop,cut and hold
+y1_d057_WZR_YJD,159,third baseman,cut and hold
+y1_d058_KJH_RZQ,18,shortstop,cut and throw to catcher
+y1_d058_KJH_RZQ,198,third baseman,cut and hold
+y1_d058_KJH_RZQ,224,shortstop,cut and hold
+y1_d058_KJH_RZQ,244,shortstop,cut and hold
+y1_d058_KJH_RZQ,253,second baseman,cut and hold
+y1_d058_KJH_RZQ,268,second baseman,cut and hold
+y1_d058_KJH_RZQ,308,shortstop,cut and hold
+y1_d058_KJH_RZQ,326,shortstop,cut and hold
+y1_d058_OXG_QEA,29,shortstop,cut and hold
+y1_d058_OXG_QEA,88,second baseman,cut and hold
+y1_d058_WZR_YJD,310,shortstop,cut and hold
+y1_d059_JNJ_QEA,25,shortstop,cut and hold
+y1_d059_JNJ_QEA,36,shortstop,cut and hold
+y1_d061_HCI_RZQ,40,shortstop,cut and hold
+y1_d061_HCI_RZQ,140,second baseman,cut and hold
+y1_d061_HCI_RZQ,147,catcher,let
+y1_d061_HCI_RZQ,214,second baseman,cut and hold
+y1_d062_HCI_RZQ,67,second baseman,cut and relay to first baseman
+y1_d063_HCI_RZQ,85,shortstop,cut and hold
+y1_d063_HCI_RZQ,105,shortstop,cut and hold
+y1_d063_HCI_RZQ,232,shortstop,cut and hold
+y1_d064_IAQ_YJD,248,second baseman,cut and throw to catcher
+y1_d064_UEX_RZQ,30,second baseman,cut and relay to shortstop
+y1_d065_IAQ_YJD,92,catcher,let
+y1_d065_IAQ_YJD,110,second baseman,cut and hold
+y1_d065_OWH_QEA,210,second baseman,cut and hold
+y1_d065_UEX_RZQ,117,second baseman,cut and hold
+y1_d065_UEX_RZQ,186,third baseman,cut and relay to second baseman
+y1_d066_IAQ_YJD,19,third baseman,cut and hold
+y1_d066_IAQ_YJD,172,shortstop,cut and hold
+y1_d066_IAQ_YJD,175,shortstop,cut and hold
+y1_d066_OWH_QEA,21,shortstop,cut and hold
+y1_d066_OWH_QEA,32,shortstop,cut and hold
+y1_d066_OWH_QEA,42,second baseman,cut and hold
+y1_d067_IAQ_YJD,240,shortstop,cut and hold
+y1_d067_OWH_QEA,13,catcher,let
+y1_d067_UEX_RZQ,34,second baseman,cut and hold
+y1_d068_OWH_QEA,7,third baseman,cut and hold
+y1_d068_OWH_QEA,31,third baseman,cut and hold
+y1_d068_OWH_QEA,44,shortstop,cut and hold
+y1_d068_OWH_QEA,229,second baseman,cut and hold
+y1_d068_OWH_QEA,332,third baseman,cut and hold
+y1_d070_ACN_QEA,158,shortstop,cut and hold
+y1_d070_ACN_QEA,282,shortstop,cut and hold
+y1_d071_ACN_QEA,76,first baseman,cut and hold
+y1_d071_ACN_QEA,107,shortstop,cut and relay to third baseman
+y1_d071_ACN_QEA,165,pitcher,cut and hold
+y1_d073_PHS_RZQ,138,shortstop,cut and throw to catcher
+y1_d073_PHS_RZQ,228,shortstop,cut and throw to catcher
+y1_d073_UWE_YJD,202,second baseman,cut and hold
+y1_d074_PHS_RZQ,141,shortstop,cut and hold
+y1_d074_UWE_YJD,49,second baseman,cut and relay to third baseman
+y1_d074_UWE_YJD,105,second baseman,cut and hold
+y1_d075_PHS_RZQ,288,third baseman,cut and hold
+y1_d077_GAX_YJD,46,shortstop,cut and hold
+y1_d077_GAX_YJD,126,second baseman,cut and hold
+y1_d078_GAX_YJD,73,third baseman,cut and hold
+y1_d078_GAX_YJD,209,shortstop,cut and hold
+y1_d078_GAX_YJD,260,shortstop,cut and relay to second baseman
+y1_d079_FBP_QEA,89,shortstop,cut and relay to second baseman
+y1_d079_FBP_QEA,186,shortstop,cut and relay to second baseman
+y1_d079_FBP_QEA,211,second baseman,cut and hold
+y1_d079_FBP_QEA,262,third baseman,cut and hold
+y1_d079_PVJ_RZQ,61,shortstop,cut and relay to third baseman
+y1_d079_PVJ_RZQ,137,pitcher,cut and relay to third baseman
+y1_d080_FBP_QEA,73,shortstop,cut and hold
+y1_d080_FBP_QEA,130,second baseman,cut and hold
+y1_d080_FBP_QEA,212,shortstop,cut and hold
+y1_d080_PVJ_RZQ,202,third baseman,cut and hold
+y1_d080_PVJ_RZQ,212,shortstop,cut and hold
+y1_d081_FBP_QEA,68,shortstop,cut and hold
+y1_d081_FBP_QEA,222,shortstop,cut and relay to second baseman
+y1_d081_FBP_QEA,259,shortstop,cut and hold
+y1_d082_FBP_QEA,42,second baseman,cut and hold
+y1_d082_FBP_QEA,47,shortstop,cut and hold
+y1_d082_FBP_QEA,149,shortstop,cut and hold
+y1_d082_FBP_QEA,252,shortstop,cut and throw to catcher
+y1_d083_YJD_RZQ,302,shortstop,cut and throw to catcher
+y1_d085_YJD_RZQ,87,catcher,let
+y1_d085_YJD_RZQ,128,catcher,let
+y1_d085_YJD_RZQ,179,first baseman,cut and hold
+y1_d086_DYE_YJD,248,third baseman,cut and hold
+y1_d088_CRQ_QEA,104,catcher,let
+y1_d088_CRQ_QEA,231,catcher,let
+y1_d088_CRQ_QEA,271,shortstop,cut and relay to second baseman
+y1_d089_CRQ_QEA,220,second baseman,cut and hold
+y1_d089_CRQ_QEA,279,shortstop,cut and hold
+y1_d090_DYE_RZQ,50,first baseman,cut and hold
+y1_d091_DYE_RZQ,12,shortstop,cut and relay to second baseman
+y1_d091_DYE_RZQ,19,third baseman,cut and hold
+y1_d091_DYE_RZQ,270,second baseman,cut and hold
+y1_d092_DYE_RZQ,21,catcher,let
+y1_d092_DYE_RZQ,268,shortstop,cut and throw to catcher
+y1_d092_DYE_RZQ,269,shortstop,cut and hold
+y1_d093_DYE_RZQ,296,second baseman,cut and hold
+y1_d094_KQQ_YJD,22,shortstop,cut and hold
+y1_d094_KQQ_YJD,249,shortstop,cut and hold
+y1_d094_WNA_RZQ,339,third baseman,cut and hold
+y1_d095_KQQ_YJD,61,third baseman,cut and hold
+y1_d095_KQQ_YJD,100,shortstop,cut and hold
+y1_d095_KQQ_YJD,134,shortstop,cut and hold
+y1_d095_KQQ_YJD,180,shortstop,cut and hold
+y1_d095_XAX_QEA,7,shortstop,cut and relay to first baseman
+y1_d096_KQQ_YJD,128,second baseman,cut and hold
+y1_d096_WNA_RZQ,57,second baseman,cut and hold
+y1_d096_XAX_QEA,82,second baseman,cut and relay to shortstop
+y1_d096_XAX_QEA,153,second baseman,cut and hold
+y1_d096_XAX_QEA,259,shortstop,cut and hold
+y1_d097_MRJ_YJD,71,third baseman,cut and hold
+y1_d097_MRJ_YJD,129,second baseman,cut and hold
+y1_d099_MRJ_YJD,121,catcher,let
+y1_d099_MRJ_YJD,124,shortstop,cut and hold
+y1_d099_MRJ_YJD,186,shortstop,cut and relay to third baseman
+y1_d099_MRJ_YJD,223,second baseman,cut and hold
+y1_d099_MRJ_YJD,259,third baseman,cut and hold
+y1_d099_MRJ_YJD,266,second baseman,cut and hold
+y1_d100_MRJ_YJD,38,shortstop,cut and relay to third baseman
+y1_d100_MRJ_YJD,82,shortstop,cut and hold
+y2_d001_BEJ_RZQ,7,second baseman,cut and relay to second baseman
+y2_d002_BEJ_RZQ,21,second baseman,cut and hold
+y2_d002_BEJ_RZQ,159,third baseman,cut and hold
+y2_d002_BEJ_RZQ,208,second baseman,cut and hold
+y2_d002_GHD_YJD,49,second baseman,cut and hold
+y2_d004_GHD_YJD,165,shortstop,cut and relay to second baseman
+y2_d004_GHD_YJD,189,third baseman,cut and relay to first baseman
+y2_d004_GHD_YJD,260,catcher,let
+y2_d006_DYE_RZQ,132,shortstop,cut and throw to catcher
+y2_d007_NSO_YJD,41,second baseman,cut and relay to third baseman
+y2_d007_NSO_YJD,176,pitcher,cut and hold
+y2_d008_JMJ_YJD,179,shortstop,cut and hold
+y2_d008_TSZ_RZQ,64,second baseman,cut and hold
+y2_d008_TSZ_RZQ,257,second baseman,cut and hold
+y2_d008_TSZ_RZQ,262,second baseman,cut and hold
+y2_d008_TSZ_RZQ,270,second baseman,cut and hold
+y2_d009_JMJ_YJD,147,shortstop,cut and relay to third baseman
+y2_d009_JMJ_YJD,292,third baseman,cut and hold
+y2_d009_TSZ_RZQ,56,shortstop,cut and relay to third baseman
+y2_d009_TSZ_RZQ,94,shortstop,cut and hold
+y2_d009_TSZ_RZQ,126,shortstop,cut and hold
+y2_d009_TSZ_RZQ,250,shortstop,cut and hold
+y2_d009_TSZ_RZQ,267,third baseman,cut and hold
+y2_d010_JMJ_YJD,172,second baseman,cut and hold
+y2_d010_JMJ_YJD,189,shortstop,cut and relay to second baseman
+y2_d010_TSZ_RZQ,32,third baseman,cut and hold
+y2_d011_BVD_RZQ,154,shortstop,cut and hold
+y2_d011_BVD_RZQ,194,second baseman,cut and relay to third baseman
+y2_d011_RQJ_YJD,188,second baseman,cut and relay to second baseman
+y2_d012_RQJ_YJD,200,shortstop,cut and hold
+y2_d012_RQJ_YJD,205,catcher,let
+y2_d013_BVD_RZQ,117,second baseman,cut and hold
+y2_d013_RQJ_YJD,164,second baseman,cut and hold
+y2_d013_RQJ_YJD,169,shortstop,cut and hold
+y2_d013_RQJ_YJD,209,third baseman,cut and hold
+y2_d013_RQJ_YJD,257,shortstop,cut and throw to catcher
+y2_d013_RQJ_YJD,44,shortstop,cut and relay to third baseman
+y2_d013_RQJ_YJD,135,shortstop,cut and relay to second baseman
+y2_d014_TEQ_YJD,37,second baseman,cut and hold
+y2_d014_TEQ_YJD,69,second baseman,cut and hold
+y2_d015_TEQ_YJD,127,second baseman,cut and hold
+y2_d017_GIS_RZQ,90,second baseman,cut and hold
+y2_d017_GIS_RZQ,116,shortstop,cut and hold
+y2_d017_GIS_RZQ,186,third baseman,cut and throw to catcher
+y2_d018_GIS_RZQ,91,second baseman,cut and hold
+y2_d019_GIS_RZQ,60,shortstop,cut and hold
+y2_d019_GIS_RZQ,65,second baseman,cut and hold
+y2_d019_GIS_RZQ,287,third baseman,cut and hold
+y2_d020_GIS_RZQ,135,shortstop,cut and hold
+y2_d020_GIS_RZQ,159,shortstop,cut and hold
+y2_d022_DMS_RZQ,50,shortstop,cut and relay to shortstop
+y2_d022_DMS_RZQ,51,second baseman,cut and hold
+y2_d024_ALA_YJD,152,catcher,let
+y2_d025_ALA_YJD,128,shortstop,cut and hold
+y2_d026_YUH_RZQ,200,second baseman,cut and throw to catcher
+y2_d027_YUH_RZQ,41,shortstop,cut and hold
+y2_d027_YUH_RZQ,90,shortstop,cut and relay to third baseman
+y2_d027_YUH_RZQ,175,shortstop,cut and relay to third baseman
+y2_d027_YUH_RZQ,236,second baseman,cut and hold
+y2_d029_IKJ_RZQ,80,shortstop,cut and hold
+y2_d029_IKJ_RZQ,85,second baseman,cut and hold
+y2_d029_IKJ_RZQ,157,pitcher,cut and hold
+y2_d029_IKJ_RZQ,234,shortstop,cut and hold
+y2_d030_IKJ_RZQ,60,shortstop,cut and hold
+y2_d030_IKJ_RZQ,113,catcher,let
+y2_d030_IKJ_RZQ,328,second baseman,cut and hold
+y2_d031_IKJ_RZQ,255,shortstop,cut and hold
+y2_d032_KNB_YJD,66,shortstop,cut and hold
+y2_d032_KNB_YJD,212,shortstop,cut and relay to first baseman
+y2_d033_KNB_YJD,21,shortstop,cut and hold
+y2_d033_KNB_YJD,205,second baseman,cut and hold
+y2_d033_KNB_YJD,207,shortstop,cut and hold
+y2_d034_KNB_YJD,29,pitcher,cut and relay to shortstop
+y2_d034_KNB_YJD,171,shortstop,cut and throw to catcher
+y2_d035_KNB_YJD,274,shortstop,cut and hold
+y2_d035_KNB_YJD,335,shortstop,cut and hold
+y2_d036_UKI_RZQ,57,third baseman,cut and hold
+y2_d036_UKI_RZQ,104,shortstop,cut and hold
+y2_d037_UKI_RZQ,110,shortstop,cut and hold
+y2_d038_UKI_RZQ,24,shortstop,cut and hold
+y2_d038_UKI_RZQ,146,shortstop,cut and relay to third baseman
+y2_d039_XLB_RZQ,149,shortstop,cut and hold
+y2_d039_XLB_RZQ,150,third baseman,cut and hold
+y2_d040_XLB_RZQ,121,shortstop,cut and hold
+y2_d041_XLB_RZQ,135,shortstop,cut and hold
+y2_d042_RZQ_YJD,70,first baseman,cut and hold
+y2_d042_RZQ_YJD,301,second baseman,cut and relay to shortstop
+y2_d043_RZQ_YJD,57,shortstop,cut and hold
+y2_d043_RZQ_YJD,125,second baseman,cut and relay to shortstop
+y2_d043_RZQ_YJD,307,shortstop,cut and hold
+y2_d043_RZQ_YJD,344,second baseman,cut and hold
+y2_d044_RZQ_YJD,153,second baseman,cut and hold
+y2_d045_IHI_YJD,19,shortstop,cut and relay to third baseman
+y2_d045_IHI_YJD,23,second baseman,cut and relay to first baseman
+y2_d045_IHI_YJD,131,third baseman,cut and hold
+y2_d046.5_IHI_YJD,188,second baseman,cut and relay to third baseman
+y2_d047_IHI_YJD,38,second baseman,cut and throw to catcher
+y2_d050_DYE_RZQ,66,second baseman,cut and hold
+y2_d050_DYE_RZQ,146,shortstop,cut and throw to catcher
+y2_d051_DYE_RZQ,56,second baseman,cut and hold
+y2_d051_DYE_RZQ,209,shortstop,cut and hold
+y2_d051_DYE_RZQ,300,first baseman,cut and hold
+y2_d052_PTB_YJD,28,second baseman,cut and hold
+y2_d052_PTB_YJD,52,shortstop,cut and hold
+y2_d052_PTB_YJD,126,second baseman,cut and relay to shortstop
+y2_d052_PTB_YJD,346,second baseman,cut and relay to first baseman
+y2_d053_PTB_YJD,270,shortstop,cut and hold
+y2_d054_PTB_YJD,185,shortstop,cut and hold
+y2_d055_IAK_RZQ,74,shortstop,cut and hold
+y2_d056_IAK_RZQ,92,second baseman,cut and hold
+y2_d056_IAK_RZQ,149,shortstop,cut and hold
+y2_d056_IAK_RZQ,233,shortstop,cut and throw to catcher
+y2_d057.5_IAK_RZQ,34,shortstop,cut and throw to catcher
+y2_d057_IAK_RZQ,144,shortstop,cut and relay to third baseman
+y2_d057_IAK_RZQ,265,shortstop,cut and hold
+y2_d058_POW_YJD,84,second baseman,cut and relay to shortstop
+y2_d058_POW_YJD,85,shortstop,cut and hold
+y2_d058_POW_YJD,269,shortstop,cut and hold
+y2_d059_POW_YJD,313,second baseman,cut and hold
+y2_d059_POW_YJD,326,third baseman,cut and hold
+y2_d062_KIR_RZQ,106,catcher,let
+y2_d063_KIR_RZQ,22,second baseman,cut and hold
+y2_d063_KIR_RZQ,24,shortstop,cut and hold
+y2_d063_KIR_RZQ,125,second baseman,cut and hold
+y2_d064_ESW_YJD,99,shortstop,cut and relay to second baseman
+y2_d064_ESW_YJD,207,pitcher,cut and relay to third baseman
+y2_d064_HKR_RZQ,58,catcher,let
+y2_d064_HKR_RZQ,193,second baseman,cut and hold
+y2_d064_HKR_RZQ,231,first baseman,cut and hold
+y2_d065_ESW_YJD,252,third baseman,cut and hold
+y2_d065_HKR_RZQ,78,shortstop,cut and throw to catcher
+y2_d065_HKR_RZQ,113,second baseman,cut and hold
+y2_d066_ESW_YJD,247,second baseman,cut and relay to shortstop
+y2_d066_HKR_RZQ,138,shortstop,cut and hold
+y2_d066_HKR_RZQ,286,second baseman,cut and relay to pitcher
+y2_d067_ESW_YJD,168,shortstop,cut and hold
+y2_d067_HKR_RZQ,82,shortstop,cut and hold
+y2_d067_HKR_RZQ,130,second baseman,cut and hold
+y2_d067_HKR_RZQ,4,third baseman,cut and hold
+y2_d067_HKR_RZQ,7,shortstop,cut and hold
+y2_d068_RDO_RZQ,55,shortstop,cut and throw to catcher
+y2_d068_RDO_RZQ,205,third baseman,cut and relay to shortstop
+y2_d069_RDO_RZQ,163,second baseman,cut and hold
+y2_d070_RDO_RZQ,14,catcher,let
+y2_d070_RDO_RZQ,111,shortstop,cut and hold
+y2_d070_RDO_RZQ,115,catcher,let
+y2_d070_RDO_RZQ,189,shortstop,cut and hold
+y2_d070_RDO_RZQ,247,second baseman,cut and hold
+y2_d071_XFE_RZQ,30,second baseman,cut and hold
+y2_d071_XFE_RZQ,35,first baseman,cut and hold
+y2_d071_XFE_RZQ,136,shortstop,cut and hold
+y2_d071_XFE_RZQ,164,second baseman,cut and hold
+y2_d071_XFE_RZQ,250,second baseman,cut and hold
+y2_d072_DYE_YJD,139,second baseman,cut and throw to catcher
+y2_d073_XFE_RZQ,46,second baseman,cut and hold
+y2_d073_XFE_RZQ,100,second baseman,cut and hold
+y2_d073_XFE_RZQ,173,shortstop,cut and hold
+y2_d074.5_VZE_YJD,53,shortstop,cut and hold
+y2_d074.5_VZE_YJD,76,shortstop,cut and hold
+y2_d074.5_VZE_YJD,111,shortstop,cut and hold
+y2_d074_VZE_YJD,181,shortstop,cut and hold
+y2_d075_VZE_YJD,41,first baseman,cut and hold
+y2_d075_VZE_YJD,225,catcher,let
+y2_d075_VZE_YJD,244,second baseman,cut and hold
+y2_d077_MGJ_RZQ,19,shortstop,cut and relay to second baseman
+y2_d077_MGJ_RZQ,179,second baseman,cut and hold
+y2_d077_MGJ_RZQ,184,second baseman,cut and hold
+y2_d077_MGJ_RZQ,189,second baseman,cut and hold
+y2_d078_MGJ_RZQ,16,shortstop,cut and hold
+y2_d079_YJD_RZQ,27,second baseman,cut and hold
+y2_d079_YJD_RZQ,204,second baseman,cut and hold
+y2_d080_YJD_RZQ,113,shortstop,cut and hold
+y2_d080_YJD_RZQ,122,second baseman,cut and hold
+y2_d080_YJD_RZQ,149,third baseman,cut and hold
+y2_d080_YJD_RZQ,259,shortstop,cut and relay to first baseman
+y2_d081_YJD_RZQ,154,catcher,let
+y2_d081_YJD_RZQ,205,second baseman,cut and hold
+y2_d082_WMI_YJD,126,third baseman,cut and hold
+y2_d083.5_WMI_YJD,70,shortstop,cut and hold
+y2_d083_WMI_YJD,56,shortstop,cut and throw to catcher
+y2_d083_WMI_YJD,228,second baseman,cut and hold
+y2_d083_WMI_YJD,231,catcher,let
+y2_d083_WMI_YJD,257,second baseman,cut and hold
+y2_d084_LFS_YJD,340,second baseman,cut and hold
+y2_d084_LFS_YJD,365,first baseman,cut and hold
+y2_d086_LFS_YJD,16,catcher,let
+y2_d086_LFS_YJD,93,second baseman,cut and hold
+y2_d086_LFS_YJD,125,shortstop,cut and hold
+y2_d088_DYE_RZQ,159,shortstop,cut and hold
+y2_d090_NYA_YJD,249,second baseman,cut and hold
+y2_d093_QZE_RZQ,32,shortstop,cut and hold
+y2_d093_QZE_RZQ,100,third baseman,cut and hold
+y2_d093_QZE_RZQ,208,catcher,let
+y2_d094_QZE_RZQ,91,second baseman,cut and hold
+y2_d094_QZE_RZQ,238,second baseman,cut and relay to third baseman
+y2_d094_QZE_RZQ,262,shortstop,cut and throw to catcher
+y2_d094_QZE_RZQ,344,shortstop,cut and hold
+y2_d095_QZE_RZQ,11,first baseman,cut and hold
+y2_d095_QZE_RZQ,28,shortstop,cut and hold
+y2_d095_QZE_RZQ,173,first baseman,cut and hold
+y2_d095_QZE_RZQ,261,second baseman,cut and hold
+y2_d097_YJD_RZQ,53,shortstop,cut and throw to catcher
+y2_d097_YJD_RZQ,158,shortstop,cut and throw to catcher
+y1_d002_CGA_QEA,99,third baseman,cut and hold
+y1_d006_JJS_YJD,74,shortstop,cut and relay to first baseman
+y1_d007_JJS_YJD,50,third baseman,cut and hold
+y1_d010_DYE_RZQ,209,second baseman,cut and hold
+y1_d013_IXC_QEA,5,third baseman,cut and hold
+y1_d013_IXC_QEA,185,first baseman,cut and hold
+y1_d015_IXC_QEA,40,third baseman,cut and hold
+y1_d015_IXC_QEA,45,shortstop,cut and hold
+y1_d016_OXG_QEA,77,shortstop,cut and hold
+y1_d018_OXG_QEA,63,second baseman,cut and hold
+y1_d018_OXG_QEA,92,second baseman,cut and hold
+y1_d018_OXG_QEA,99,second baseman,cut and hold
+y1_d018_OXG_QEA,131,shortstop,cut and hold
+y1_d019_JFU_YJD,216,shortstop,cut and hold
+y1_d020_JFU_YJD,11,third baseman,cut and hold
+y1_d021_JFU_YJD,122,catcher,let
+y1_d021_JFU_YJD,127,second baseman,cut and hold
+y1_d023_AKX_YJD,261,first baseman,cut and hold
+y1_d023_AKX_YJD,40,shortstop,cut and hold
+y1_d023_AKX_YJD,53,second baseman,cut and hold
+y1_d026_JIL_RZQ,33,third baseman,cut and hold
+y1_d035_AVV_YJD,153,third baseman,cut and hold
+y1_d040_TKJ_YJD,16,second baseman,cut and hold
+y1_d040_TKJ_YJD,21,second baseman,cut and relay to shortstop
+y1_d044_WJU_QEA,273,shortstop,cut and hold
+y1_d044_WJU_QEA,338,second baseman,cut and hold
+y1_d045_MHY_RZQ,42,second baseman,cut and hold
+y1_d045_MHY_RZQ,157,second baseman,cut and hold
+y1_d045_MHY_RZQ,178,shortstop,cut and hold
+y1_d046_WJU_QEA,147,shortstop,cut and relay to first baseman
+y1_d047_VHS_YJD,124,shortstop,cut and hold
+y1_d049_UPU_YJD,74,second baseman,cut and throw to catcher
+y1_d050_STK_QEA,7,second baseman,cut and hold
+y1_d051_UPU_YJD,153,second baseman,cut and hold
+y1_d055_APZ_QEA,114,third baseman,cut and hold
+y1_d056_KJH_RZQ,85,second baseman,cut and hold
+y1_d056_KJH_RZQ,250,shortstop,cut and relay to third baseman
+y1_d056_OXG_QEA,27,second baseman,cut and hold
+y1_d056_OXG_QEA,256,first baseman,cut and hold
+y1_d057_KJH_RZQ,307,second baseman,cut and hold
+y1_d057_OXG_QEA,12,second baseman,cut and hold
+y1_d057_OXG_QEA,82,second baseman,cut and hold
+y1_d057_OXG_QEA,146,catcher,let
+y1_d057_OXG_QEA,294,shortstop,cut and hold
+y1_d058_WZR_YJD,133,shortstop,cut and hold
+y1_d059_JNJ_QEA,179,second baseman,cut and hold
+y1_d059_JNJ_QEA,198,second baseman,cut and hold
+y1_d060_JNJ_QEA,47,first baseman,cut and hold
+y1_d062_HCI_RZQ,123,shortstop,cut and hold
+y1_d063_HCI_RZQ,45,third baseman,cut and hold
+y1_d063_HCI_RZQ,186,shortstop,cut and hold
+y1_d064_UEX_RZQ,110,second baseman,cut and hold
+y1_d064_UEX_RZQ,48,shortstop,cut and hold
+y1_d065_IAQ_YJD,109,second baseman,cut and hold
+y1_d065_UEX_RZQ,136,second baseman,cut and hold
+y1_d066_IAQ_YJD,252,second baseman,cut and hold
+y1_d066_OWH_QEA,167,second baseman,cut and relay to shortstop
+y1_d067_IAQ_YJD,56,shortstop,cut and hold
+y1_d067_IAQ_YJD,79,catcher,let
+y1_d067_IAQ_YJD,144,second baseman,cut and hold
+y1_d067_UEX_RZQ,226,second baseman,cut and hold
+y1_d072_ACN_QEA,81,second baseman,cut and hold
+y1_d080_FBP_QEA,23,second baseman,cut and hold
+y1_d080_FBP_QEA,111,second baseman,cut and hold
+y1_d080_FBP_QEA,290,third baseman,cut and hold
+y1_d080_PVJ_RZQ,67,second baseman,cut and hold
+y1_d081_PVJ_RZQ,264,second baseman,cut and hold
+y1_d082_FBP_QEA,128,second baseman,cut and hold
+y1_d082_FBP_QEA,170,shortstop,cut and hold
+y1_d082_YJD_RZQ,87,second baseman,cut and hold
+y1_d084_YJD_RZQ,227,third baseman,cut and hold
+y1_d086_DYE_YJD,206,shortstop,cut and hold
+y1_d086_DYE_YJD,213,second baseman,cut and hold
+y1_d086_DYE_YJD,96,second baseman,cut and hold
+y1_d086_DYE_YJD,105,third baseman,cut and hold
+y1_d088_CRQ_QEA,125,shortstop,cut and hold
+y1_d090_DYE_RZQ,199,first baseman,cut and hold
+y1_d090_DYE_RZQ,203,third baseman,cut and hold
+y1_d090_DYE_RZQ,269,second baseman,cut and hold
+y1_d091_DYE_RZQ,78,catcher,let
+y1_d091_DYE_RZQ,118,second baseman,cut and hold
+y1_d091_DYE_RZQ,324,first baseman,cut and hold
+y1_d093_DYE_RZQ,204,second baseman,cut and hold
+y1_d094_KQQ_YJD,118,third baseman,cut and hold
+y1_d094_KQQ_YJD,130,third baseman,cut and hold
+y1_d094_KQQ_YJD,307,shortstop,cut and hold
+y1_d095_KQQ_YJD,18,catcher,let
+y1_d095_WNA_RZQ,234,first baseman,cut and hold
+y1_d095_XAX_QEA,5,shortstop,cut and hold
+y1_d096_KQQ_YJD,106,first baseman,cut and hold
+y1_d096_WNA_RZQ,270,first baseman,cut and hold
+y1_d096_XAX_QEA,16,catcher,let
+y1_d096_XAX_QEA,106,second baseman,cut and hold
+y1_d099_MRJ_YJD,131,second baseman,cut and hold
+y1_d100_MRJ_YJD,183,second baseman,cut and hold
+y2_d002_BEJ_RZQ,171,third baseman,cut and hold
+y2_d002_BEJ_RZQ,231,first baseman,cut and relay to third baseman
+y2_d002_GHD_YJD,124,second baseman,cut and hold
+y2_d004_GHD_YJD,209,second baseman,cut and hold
+y2_d004_GHD_YJD,287,second baseman,cut and hold
+y2_d004_GHD_YJD,290,third baseman,cut and hold
+y2_d008_JMJ_YJD,135,second baseman,cut and hold
+y2_d008_TSZ_RZQ,111,shortstop,cut and hold
+y2_d011_RQJ_YJD,204,shortstop,cut and hold
+y2_d012_BVD_RZQ,108,shortstop,cut and hold
+y2_d012_RQJ_YJD,28,second baseman,cut and hold
+y2_d014_TEQ_YJD,193,second baseman,cut and hold
+y2_d020_GIS_RZQ,16,second baseman,cut and hold
+y2_d021_DMS_RZQ,25,third baseman,cut and hold
+y2_d021_DMS_RZQ,159,third baseman,cut and hold
+y2_d022_DMS_RZQ,76,shortstop,cut and hold
+y2_d024_ALA_YJD,144,second baseman,cut and hold
+y2_d025_ALA_YJD,250,second baseman,cut and hold
+y2_d026_VMN_YJD,113,shortstop,cut and hold
+y2_d026_YUH_RZQ,74,third baseman,cut and relay to first baseman
+y2_d027_YUH_RZQ,89,second baseman,cut and hold
+y2_d028_VMN_YJD,225,second baseman,cut and hold
+y2_d030_IKJ_RZQ,16,second baseman,cut and hold
+y2_d031_IKJ_RZQ,189,second baseman,cut and hold
+y2_d032_KNB_YJD,15,shortstop,cut and hold
+y2_d032_KNB_YJD,146,shortstop,cut and hold
+y2_d034_KNB_YJD,179,second baseman,cut and relay to third baseman
+y2_d034_KNB_YJD,305,second baseman,cut and hold
+y2_d035_KNB_YJD,31,shortstop,cut and hold
+y2_d035_KNB_YJD,173,shortstop,cut and hold
+y2_d035_KNB_YJD,206,second baseman,cut and hold
+y2_d035_KNB_YJD,208,third baseman,cut and hold
+y2_d035_KNB_YJD,362,third baseman,cut and hold
+y2_d037_UKI_RZQ,259,second baseman,cut and hold
+y2_d038_UKI_RZQ,166,second baseman,cut and hold
+y2_d040_XLB_RZQ,98,shortstop,cut and hold
+y2_d041_XLB_RZQ,118,second baseman,cut and hold
+y2_d043_RZQ_YJD,236,third baseman,cut and hold
+y2_d045_IHI_YJD,12,third baseman,cut and hold
+y2_d047_IHI_YJD,247,second baseman,cut and hold
+y2_d048_DYE_RZQ,157,second baseman,cut and hold
+y2_d050_DYE_RZQ,53,second baseman,cut and hold
+y2_d050_DYE_RZQ,156,second baseman,cut and hold
+y2_d051_DYE_RZQ,105,shortstop,cut and hold
+y2_d055_IAK_RZQ,193,second baseman,cut and hold
+y2_d056_IAK_RZQ,138,shortstop,cut and hold
+y2_d056_IAK_RZQ,261,second baseman,cut and hold
+y2_d057_IAK_RZQ,109,shortstop,cut and hold
+y2_d057_IAK_RZQ,141,shortstop,cut and relay to first baseman
+y2_d063_KIR_RZQ,225,second baseman,cut and hold
+y2_d064_HKR_RZQ,186,shortstop,cut and hold
+y2_d064_HKR_RZQ,187,shortstop,cut and hold
+y2_d065_ESW_YJD,10,second baseman,cut and hold
+y2_d065_ESW_YJD,182,second baseman,cut and relay to third baseman
+y2_d065_HKR_RZQ,234,shortstop,cut and hold
+y2_d066_ESW_YJD,246,shortstop,cut and hold
+y2_d067_HKR_RZQ,158,shortstop,cut and hold
+y2_d067_HKR_RZQ,175,third baseman,cut and hold
+y2_d067_HKR_RZQ,217,second baseman,cut and hold
+y2_d068_RDO_RZQ,45,second baseman,cut and hold
+y2_d069_RDO_RZQ,137,second baseman,cut and hold
+y2_d070_RDO_RZQ,178,second baseman,cut and hold
+y2_d071_XFE_RZQ,23,shortstop,cut and hold
+y2_d072_DYE_YJD,52,third baseman,cut and hold
+y2_d073_DYE_YJD,93,third baseman,cut and hold
+y2_d073_XFE_RZQ,215,catcher,let
+y2_d074.5_VZE_YJD,183,second baseman,cut and hold
+y2_d074.5_VZE_YJD,237,second baseman,cut and hold
+y2_d074_VZE_YJD,92,second baseman,cut and hold
+y2_d080_YJD_RZQ,13,third baseman,cut and hold
+y2_d080_YJD_RZQ,304,shortstop,cut and hold
+y2_d082_WMI_YJD,151,shortstop,cut and hold
+y2_d082_WMI_YJD,164,shortstop,cut and hold
+y2_d083_WMI_YJD,43,second baseman,cut and hold
+y2_d084_LFS_YJD,84,shortstop,cut and hold
+y2_d085.5_LFS_YJD,138,shortstop,cut and relay to first baseman
+y2_d087_DYE_RZQ,164,shortstop,cut and hold
+y2_d089_DYE_RZQ,89,shortstop,cut and hold
+y2_d090_NYA_YJD,105,second baseman,cut and hold
+y2_d090_NYA_YJD,109,second baseman,cut and hold
+y2_d091_NYA_YJD,227,shortstop,cut and hold
+y2_d092_NYA_YJD,260,catcher,let
+y2_d094_QZE_RZQ,109,shortstop,cut and hold
+y2_d094_QZE_RZQ,142,catcher,let
+y2_d094_QZE_RZQ,341,pitcher,cut and relay to third baseman
+y2_d095_QZE_RZQ,97,pitcher,cut and relay to shortstop
+y2_d096_QZE_RZQ,62,shortstop,cut and hold
+y2_d097_YJD_RZQ,19,second baseman,cut and hold
+y2_d097_YJD_RZQ,135,first baseman,cut and hold
+y2_d098_YJD_RZQ,37,second baseman,cut and hold
+y1_d005_JJS_YJD,125,second baseman,cut and hold
+y1_d006_JJS_YJD,51,second baseman,cut and hold
+y1_d014_IXC_QEA,36,shortstop,cut and hold
+y1_d014_IXC_QEA,289,second baseman,cut and hold
+y1_d016_OXG_QEA,70,catcher,let
+y1_d016_OXG_QEA,130,first baseman,cut and hold
+y1_d018_OXG_QEA,126,second baseman,cut and hold
+y1_d018_OXG_QEA,196,first baseman,cut and hold
+y1_d018_OXG_QEA,315,second baseman,cut and hold
+y1_d033_AVV_YJD,70,first baseman,cut and hold
+y1_d035_AVV_YJD,293,shortstop,cut and hold
+y1_d038_HMN_RZQ,236,first baseman,cut and hold
+y1_d039_HMN_RZQ,39,second baseman,cut and hold
+y1_d040_TKJ_YJD,126,second baseman,cut and hold
+y1_d041_TKJ_YJD,219,second baseman,cut and hold
+y1_d044_WJU_QEA,232,second baseman,cut and hold
+y1_d044_WJU_QEA,298,shortstop,cut and hold
+y1_d045_MHY_RZQ,125,shortstop,cut and hold
+y1_d045_VHS_YJD,38,shortstop,cut and hold
+y1_d046_WJU_QEA,133,second baseman,cut and hold
+y1_d047_MHY_RZQ,126,second baseman,cut and hold
+y1_d047_MHY_RZQ,180,first baseman,cut and hold
+y1_d047_VHS_YJD,18,second baseman,cut and hold
+y1_d047_VHS_YJD,171,first baseman,cut and hold
+y1_d048_MHY_RZQ,17,shortstop,cut and hold
+y1_d048_STK_QEA,69,catcher,let
+y1_d049_JZK_RZQ,133,first baseman,cut and hold
+y1_d049_UPU_YJD,170,shortstop,cut and hold
+y1_d050_JZK_RZQ,140,third baseman,cut and hold
+y1_d051_JZK_RZQ,160,first baseman,cut and hold
+y1_d051_UPU_YJD,76,catcher,let
+y1_d051_UPU_YJD,197,shortstop,cut and hold
+y1_d051_UPU_YJD,207,shortstop,cut and hold
+y1_d051_UPU_YJD,242,shortstop,cut and hold
+y1_d051_UPU_YJD,322,shortstop,cut and hold
+y1_d052_APZ_QEA,340,catcher,let
+y1_d053_APZ_QEA,223,shortstop,cut and relay to second baseman
+y1_d054_APZ_QEA,107,catcher,let
+y1_d054_APZ_QEA,116,third baseman,cut and hold
+y1_d056_OXG_QEA,224,third baseman,cut and hold
+y1_d056_OXG_QEA,265,shortstop,cut and hold
+y1_d057_OXG_QEA,23,shortstop,cut and hold
+y1_d057_WZR_YJD,195,second baseman,cut and hold
+y1_d058_OXG_QEA,219,first baseman,cut and hold
+y1_d058_WZR_YJD,311,second baseman,cut and hold
+y1_d058_WZR_YJD,330,catcher,let
+y1_d059_JNJ_QEA,114,shortstop,cut and hold
+y1_d064_IAQ_YJD,214,shortstop,cut and hold
+y1_d066_IAQ_YJD,219,second baseman,cut and hold
+y1_d066_IAQ_YJD,264,third baseman,cut and hold
+y1_d066_OWH_QEA,85,shortstop,cut and hold
+y1_d067_OWH_QEA,225,shortstop,cut and hold
+y1_d068_OWH_QEA,9,first baseman,cut and hold
+y1_d068_OWH_QEA,29,catcher,let
+y1_d068_OWH_QEA,59,first baseman,cut and hold
+y1_d070_ACN_QEA,118,shortstop,cut and relay to second baseman
+y1_d076_GAX_YJD,90,shortstop,cut and hold
+y1_d080_FBP_QEA,54,second baseman,cut and hold
+y1_d081_PVJ_RZQ,25,catcher,let
+y1_d081_PVJ_RZQ,208,second baseman,cut and throw to catcher
+y1_d082_FBP_QEA,71,shortstop,cut and hold
+y1_d083_YJD_RZQ,204,second baseman,cut and hold
+y1_d084_YJD_RZQ,140,shortstop,cut and hold
+y1_d084_YJD_RZQ,166,shortstop,cut and hold
+y1_d085_YJD_RZQ,130,shortstop,cut and hold
+y1_d086_DYE_YJD,168,catcher,let
+y1_d086_DYE_YJD,236,third baseman,cut and hold
+y1_d089_CRQ_QEA,249,catcher,let
+y1_d090_DYE_RZQ,194,shortstop,cut and hold
+y1_d091_DYE_RZQ,13,second baseman,cut and hold
+y1_d091_DYE_RZQ,114,shortstop,cut and relay to second baseman
+y1_d092_DYE_RZQ,258,third baseman,cut and hold
+y1_d095_KQQ_YJD,15,shortstop,cut and hold
+y1_d098_MRJ_YJD,82,third baseman,cut and hold
+y1_d098_MRJ_YJD,183,second baseman,cut and hold
+y2_d002_BEJ_RZQ,145,catcher,let
+y2_d002_BEJ_RZQ,202,shortstop,cut and hold
+y2_d003_GHD_YJD,11,second baseman,cut and hold
+y2_d005_DYE_RZQ,209,shortstop,cut and hold
+y2_d005_NSO_YJD,283,catcher,let
+y2_d008_TSZ_RZQ,95,first baseman,cut and hold
+y2_d009_JMJ_YJD,151,shortstop,cut and hold
+y2_d009_TSZ_RZQ,137,first baseman,cut and hold
+y2_d010_TSZ_RZQ,35,second baseman,cut and hold
+y2_d013_BVD_RZQ,80,first baseman,cut and hold
+y2_d013_RQJ_YJD,292,shortstop,cut and hold
+y2_d014_TEQ_YJD,112,shortstop,cut and hold
+y2_d017_GIS_RZQ,119,first baseman,cut and hold
+y2_d017_GIS_RZQ,122,second baseman,cut and hold
+y2_d017_GIS_RZQ,141,catcher,let
+y2_d019_GIS_RZQ,59,second baseman,cut and hold
+y2_d020_GIS_RZQ,154,first baseman,cut and hold
+y2_d022_DMS_RZQ,103,shortstop,cut and hold
+y2_d024_ALA_YJD,187,shortstop,cut and hold
+y2_d028_VMN_YJD,52,catcher,let
+y2_d028_YUH_RZQ,42,second baseman,cut and hold
+y2_d030_IKJ_RZQ,180,catcher,let
+y2_d031_IKJ_RZQ,192,shortstop,cut and hold
+y2_d031_IKJ_RZQ,248,shortstop,cut and hold
+y2_d032_KNB_YJD,140,shortstop,cut and hold
+y2_d032_KNB_YJD,223,shortstop,cut and hold
+y2_d034_KNB_YJD,83,catcher,let
+y2_d038_UKI_RZQ,277,shortstop,cut and hold
+y2_d039_XLB_RZQ,159,catcher,let
+y2_d040_XLB_RZQ,263,shortstop,cut and hold
+y2_d043_RZQ_YJD,72,first baseman,cut and hold
+y2_d045_IHI_YJD,22,third baseman,cut and hold
+y2_d045_IHI_YJD,180,catcher,let
+y2_d045_IHI_YJD,212,first baseman,cut and hold
+y2_d048_DYE_RZQ,165,second baseman,cut and hold
+y2_d050_DYE_RZQ,283,first baseman,cut and throw to catcher
+y2_d050_DYE_RZQ,307,shortstop,cut and hold
+y2_d051_DYE_RZQ,203,shortstop,cut and hold
+y2_d057.5_IAK_RZQ,33,shortstop,cut and hold
+y2_d057.5_IAK_RZQ,38,shortstop,cut and hold
+y2_d058_POW_YJD,74,second baseman,cut and hold
+y2_d058_POW_YJD,273,catcher,let
+y2_d063_KIR_RZQ,133,catcher,let
+y2_d063_KIR_RZQ,201,shortstop,cut and hold
+y2_d065_ESW_YJD,42,third baseman,cut and hold
+y2_d065_ESW_YJD,104,shortstop,cut and hold
+y2_d065_ESW_YJD,255,second baseman,cut and hold
+y2_d065_HKR_RZQ,239,shortstop,cut and hold
+y2_d072_DYE_YJD,45,catcher,let
+y2_d072_XFE_RZQ,279,first baseman,cut and hold
+y2_d074_VZE_YJD,38,first baseman,cut and hold
+y2_d077_MGJ_RZQ,71,shortstop,cut and hold
+y2_d077_MGJ_RZQ,109,shortstop,cut and hold
+y2_d077_MGJ_RZQ,240,first baseman,cut and hold
+y2_d078_MGJ_RZQ,13,first baseman,cut and hold
+y2_d080_YJD_RZQ,333,shortstop,cut and hold
+y2_d083_WMI_YJD,79,shortstop,cut and hold
+y2_d083_WMI_YJD,80,shortstop,cut and hold
+y2_d083_WMI_YJD,299,catcher,let
+y2_d084_LFS_YJD,72,second baseman,cut and hold
+y2_d084_LFS_YJD,323,second baseman,cut and hold
+y2_d087_DYE_RZQ,120,second baseman,cut and hold
+y2_d088_DYE_RZQ,156,shortstop,cut and hold
+y2_d088_DYE_RZQ,164,third baseman,cut and hold
+y2_d090_NYA_YJD,5,second baseman,cut and hold
+y2_d091_NYA_YJD,47,third baseman,cut and hold
+y2_d094_QZE_RZQ,135,shortstop,cut and hold
+y2_d094_QZE_RZQ,175,third baseman,cut and hold
+y2_d094_QZE_RZQ,333,shortstop,cut and hold
+y2_d096_QZE_RZQ,221,third baseman,cut and hold
